@@ -1,0 +1,21 @@
+ul li{
+    text-decoration: none;
+    list-style-type: none;
+
+}
+.btn-success{
+    margin-top: 10px;
+    padding: 12px;
+    border-radius: 12px;
+    width: 150px;
+
+}
+i{
+    margin-right: 10px;
+}
+.info-detail{
+    margin-top: 20px;
+}
+#heading{
+    margin-top: 100x;
+}
